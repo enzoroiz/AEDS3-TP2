@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1369009566 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP2/TP2 - Ótimo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"otimo.h"
+
+1368852989 /home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP2/TP2 - Ótimo/otimo.h
+	<stdio.h>
+	<stdlib.h>
+
+1368975613 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP2/TP2 - Ótimo/otimo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"otimo.h"
+

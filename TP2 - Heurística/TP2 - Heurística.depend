@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1368974240 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP2/TP2 - Heurística/heuristica.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"heuristica.h"
+
+1368972919 /home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP2/TP2 - Heurística/heuristica.h
+	<stdio.h>
+	<stdlib.h>
+
+1369009649 source:/home/enzoroiz/Dropbox/Faculdade/Semestre II/AEDS III/TP2/TP2 - Heurística/main.c
+	<stdio.h>
+	<stdlib.h>
+	"heuristica.h"
+
